@@ -9,3 +9,4 @@ The Assignment of ML course.
 ## Directions
 * Download parameters of the model: https://pan.baidu.com/s/1kV9OVXwZD1QFlFZgzKVf_w<br>
 Extraction code: mpvn
+* Please make sure `eval.py` and `best paras.pkl` is under the same directory.
